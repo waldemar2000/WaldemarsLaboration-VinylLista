@@ -1,0 +1,5 @@
+c:\users\ace\documents\visual studio 2015\Projects\Waldemars Laboration\Waldemars Laboration\bin\Debug\Waldemars Laboration.exe.config
+C:\Users\ace\Documents\Visual Studio 2015\Projects\Waldemars Laboration\Waldemars Laboration\bin\Debug\Waldemars Laboration.exe
+C:\Users\ace\Documents\Visual Studio 2015\Projects\Waldemars Laboration\Waldemars Laboration\bin\Debug\Waldemars Laboration.pdb
+C:\Users\ace\Documents\Visual Studio 2015\Projects\Waldemars Laboration\Waldemars Laboration\obj\Debug\Waldemars Laboration.exe
+C:\Users\ace\Documents\Visual Studio 2015\Projects\Waldemars Laboration\Waldemars Laboration\obj\Debug\Waldemars Laboration.pdb
